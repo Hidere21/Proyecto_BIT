@@ -1,0 +1,19 @@
+
+.bg-pink{
+    background-color: #df1e1e;
+}
+
+.bg-dark-blue{
+    background-color: #c2bee2;
+}
+
+.profile-image{
+    background-image: url("/assets/images/inicio.jpg");
+    background-size: cover;
+    width: 15rem;
+    height: 15rem;
+}
+
+.z-index-test{
+    
+}
